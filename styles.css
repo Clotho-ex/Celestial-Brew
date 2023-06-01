@@ -89,7 +89,7 @@ a.active {
 
 .banner {
   position: relative;
-  background-image: url(/Resources/img/img-banner-bg.jpg);
+  background-image: url(img/img-banner-bg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -234,21 +234,21 @@ a.active {
 }
 
 .img1 {
-  background-image: url(/Resources/img/img-coffee-beans.jpg);
+  background-image: url(img/img-coffee-beans.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .img2 {
-  background-image: url(/Resources/img/img-coffee-coaster.jpg);
+  background-image: url(img/img-coffee-coaster.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .img3 {
-  background-image: url(/Resources/img/img-coffee-mug.jpg);
+  background-image: url(img/img-coffee-mug.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
